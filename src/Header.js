@@ -3,8 +3,8 @@ import React from 'react';
 const Header = () => {
     return (
         <header>
-            <i class="fas fa-book fa-2x"></i>
-            <h1>Google Book Search</h1>
+            <i className="fas fa-book fa-2x"></i>
+            <h1>Google Books Search</h1>
         </header>
 
     )
